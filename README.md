@@ -9,4 +9,4 @@ AI & ML Student | Govt Polytechnic Mumbai | Mumbai
 **● _Exploring_ : Deep Learning, Generative AI, Cloud Computing**
 
 
-📌Connect: [LinkedIn](https://linkedin.com/in/anuragyadavcodes) | 📍 Mumbai, India
+📌Connect: LinkedIn | 📍 Mumbai, India
