@@ -1,5 +1,5 @@
 # Hello, I'm Anurag 👋
-AI & ML Student | Govt Polytechnic Mumbai | Mumbai
+AI & ML Student | Govt Polytechnic Mumbai
 
 
 **● FTC Robotics 2023 & 2024 — Java, Solidworks, Mechanical Work, Robot building**
