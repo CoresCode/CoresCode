@@ -11,4 +11,4 @@ AI & ML Student | Govt Polytechnic Mumbai
 **● _Exploring_ : Java, Generative AI, Cloud Computing**
 
 
-📌Connect: LinkedIn | 📍 Mumbai, India
+📌Connect: www.linkedin.com/in/corescode | corescode.pages.dev | 📍 Mumbai, India
